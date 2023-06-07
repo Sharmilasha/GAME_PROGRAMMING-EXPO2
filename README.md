@@ -35,5 +35,7 @@ Create a new project in Unreal Engine and choose a template that suits your need
 ~~~
 ## OUTPUT:
 Starting position of the player:
+![n1](https://github.com/Sharmilasha/GAME_PROGRAMMING-EXPO2/assets/94506182/05fa827d-f299-4403-93e0-11e94c0fc678)
+
 
 Destroying the coins:
