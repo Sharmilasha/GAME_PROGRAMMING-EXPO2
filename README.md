@@ -88,6 +88,7 @@ CONNECTIONS:
 ![pb](https://github.com/Sharmilasha/GAME_PROGRAMMING-EXPO2/assets/94506182/90db7341-27a4-4131-881c-7fef8960dc74)
 ![QB](https://github.com/Sharmilasha/GAME_PROGRAMMING-EXPO2/assets/94506182/e9ffdd85-6f14-4433-a012-bf900f57c5f2)
 ![BB](https://github.com/Sharmilasha/GAME_PROGRAMMING-EXPO2/assets/94506182/52a240da-3847-44d8-819f-c3b97756e32c)
-RESULT:
+
+## RESULT:
 Thus, To Create a player movement using pawn, collectible, player health, and score created and developed by unreal Engine.
 
